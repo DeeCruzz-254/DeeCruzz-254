@@ -1,16 +1,30 @@
-## Hi there 👋
+ Hi, I'm Samwel 👋
 
-<!--
-**DeeCruzz-254/DeeCruzz-254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full-Stack Developer focused on building secure and scalable systems.
 
-Here are some ideas to get you started:
+ 🚀My Tech Stack
+Frontend: HTML, JavaScript, React, Vue, Angular  
+Backend: Node.js, Express  
+Database: MongoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔐 Cybersecurity Interests
+Cryptography  
+Threat Intelligence  
+GDPR & Kenya Data Protection Act  
+
+ ⚙️ What I Build
+- REST APIs
+- WebSocket systems
+- Secure authentication (bcrypt)
+- M-Pesa STK Push integrations
+- Bulk Email & SMS engines
+- Data scraping & automation pipelines
+
+📌My Key Projects
+Payment Gateway Integration  
+Bulk Email & SMS Notification Engine  
+School Management System with secure result uploads  
+
+
+
+Building secure, scalable, and reliable software systems.
